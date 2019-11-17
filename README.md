@@ -51,45 +51,32 @@ The final report includes each of the following:
 ### Pyber Ride Sharing Data(2016) Bubble Plot 
 
 
-![Bubble plot](Images Pyber/BubblePlot.png)
+![Bubble plot](Images Pyber/BubblePlot2.png)
 
 
-### Purchasing Analysis (Total)
+### Total Fares by City Type
 
-![purchasing analysis](HeroesOfPymoli/Pictures/purchasinganalysis.PNG)
+![fares by city](Images Pyber/totalfaresbycity.png)
 
-### Gender Demographics
+### Total Rides by City Type
+![rides by city](Images Pyber/totalridesbytype.png)
 
-![gender demographics](HeroesOfPymoli/Pictures/genderanalysis.PNG)
 
-### Purchasing Analysis (Gender)
 
-![purchasing analysis (gender)](HeroesOfPymoli/Pictures/purchasinganalysisgender.PNG)
+### Total Drivers by City Type
 
-### Age Demographics
-
-![age demographics](HeroesOfPymoli/Pictures/agedemographics.PNG)
-
-### Top Spenders
-
-![top spenders](HeroesOfPymoli/Pictures/topspender.PNG)
-
-### Most Popular Items
-
-![most popular items](HeroesOfPymoli/Pictures/mostpopularitem.PNG)
-
-### Most Profitable Items
-
-![most profitable items](HeroesOfPymoli/Pictures/mostprofitableitem.PNG)
-
-As final considerations:
+![drivers by city](Images Pyber/TotalDriversbyCityType.png)
 
 ## Conclusion
-- Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
+- Observation Based on 'Pyber Ride Sharing Data(2016)' scatter plot, we see that Urban cities have greatest number of drivers and rides, but they have lowest average fare. We see that suburban cities have average number of drivers and rides and they have an average fare. We also see that rural cities have smalest number of drivers and rides, but they have greatest average fare.
 
-- Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
+- Rides and drivers are not too avalaible in rural cities, which is making the fares more expensive. Rides and drivers are somewhat available in suburban cities, which is making the fares have an average rate. Rides and drivers are really available in urban cities, which is making the fares cheaper.
 
+- Percent total ride is the greatest in urban cities (68.4%), percent total ride is the second greatest in suburban cities (26.3%), and percent total ride is the lowest in rural cities (5.3%).
 
+- Percent total drivers is the greatest in urban cities (80.9%), percent total drivers is the second greatest in suburban cities (16.8%), and percent total drivers is the lowest in rural cities (2.6%). 
+
+- Rides and drivers are not too avalaible in rural cities, which is making the fares more expensive. Rides and drivers are somewhat available in suburban cities, which is making the fares have an average rate. Rides and drivers are really available in urban cities, which is making the fares cheaper.
 
 ## Contact
 * [Visit my LinkedIn](https://www.linkedin.com/in/caroline-delva-5184a172/) 
