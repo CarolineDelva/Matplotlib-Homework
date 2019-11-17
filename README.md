@@ -9,7 +9,7 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 ## Project Description
 
-The purpose of this project is to analyze a ridesharing company's complete recordset of rides. The datasets contain information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+The purpose of this project is to analyze a ridesharing company's recordset of rides. The datasets contain information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 The final report includes each of the following:
 
@@ -28,15 +28,11 @@ The final report includes each of the following:
 * Data Visualization
 * Data Analysis 
 * Descriptive Analysis
+* Data processing
+
 
 ## Technologies
 * Python (Pandas, Numpy, Matplotlib, Jypyter Notebook)
-
-## Needs of this project
-
-- data analysis
-- descriptive statistics
-- data processing
 
 
 ## Getting Started
@@ -51,21 +47,21 @@ The final report includes each of the following:
 ### Pyber Ride Sharing Data(2016) Bubble Plot 
 
 
-![Bubble plot](Images Pyber/BubblePlot2.png)
+![Bubble plot](ImagesPyber/BubblePlot2.png)
 
 
 ### Total Fares by City Type
 
-![fares by city](Images Pyber/totalfaresbycity.png)
+![fares by city](ImagesPyber/totalfaresbycity.png)
 
 ### Total Rides by City Type
-![rides by city](Images Pyber/totalridesbytype.png)
+![rides by city](ImagesPyber/totalridesbytype.png)
 
 
 
 ### Total Drivers by City Type
 
-![drivers by city](Images Pyber/TotalDriversbyCityType.png)
+![drivers by city](ImagesPyber/TotalDriversbyCityType.png)
 
 ## Conclusion
 - Observation Based on 'Pyber Ride Sharing Data(2016)' scatter plot, we see that Urban cities have greatest number of drivers and rides, but they have lowest average fare. We see that suburban cities have average number of drivers and rides and they have an average fare. We also see that rural cities have smalest number of drivers and rides, but they have greatest average fare.
