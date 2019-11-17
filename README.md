@@ -4,6 +4,8 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 #### -- Project Status: [Completed]
 
+![pyber](Images/Ride.png)
+
 
 ## Project Description
 
