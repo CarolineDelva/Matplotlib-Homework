@@ -25,27 +25,24 @@ The final report includes each of the following:
 - % of Total Drivers by City Type
 
 ## Methods Used
+* Data Visualization
 * Data Analysis 
 * Descriptive Analysis
-* Data Visualization
-
 
 ## Technologies
-* Python (Pandas, Numpy, Jypyter Notebook)
+* Python (Pandas, Numpy, Matplotlib, Jypyter Notebook)
 
 ## Needs of this project
 
-- data exploration
+- data analysis
 - descriptive statistics
 - data processing
-
-
 
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. CSV can be found in the [Resources](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/tree/master/HeroesOfPymoli/Resources) in this repository.
+2. CSVs can be found in the [Resources](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/tree/master/Pyber/data) in this repository.
 
 3. The Python script is located in the [HeroesOfPymoli](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) folder.
 4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
