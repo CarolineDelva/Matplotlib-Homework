@@ -43,6 +43,7 @@ The final report includes each of the following:
 3. The Python script is located in the [Pyber](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/blob/master/Pyber/pyber%20script.ipynb) folder.
 4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
 
+## Visualizations
 
 ### Pyber Ride Sharing Data(2016) Bubble Plot 
 
